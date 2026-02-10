@@ -1,0 +1,5 @@
+{
+  "name": "ALERTE INFO - Agrégateur d'actualités",
+  "description": "Un agrégateur d'actualités moderne, mobile-first, doté d'un mode sombre, de filtres par catégorie et d'une recherche en temps réel.",
+  "requestFramePermissions": []
+}
